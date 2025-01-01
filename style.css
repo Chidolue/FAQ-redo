@@ -75,6 +75,7 @@ p {
 div hr{
     border: 1px solid hsl(275, 100%, 97%);
     margin-bottom: 1rem;
+    width: 100%;
 }
 
 .answers {
